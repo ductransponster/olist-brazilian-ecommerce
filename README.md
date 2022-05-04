@@ -20,7 +20,7 @@ The analyzes performed in this project include:
   - [customer_analysis_1.ipynb](https://github.com/ductransponster/Olist-Brazilian-Ecommerce/blob/main/notebook/customer_analysis_1.ipynb): overview of customers and customer segments
   - [customer_analysis_2.ipynb](https://github.com/ductransponster/Olist-Brazilian-Ecommerce/blob/main/notebook/customer_analysis_2.ipynb): analyze cohorts by retention and monthly sales
 
-**4. Payment Analysis:** [payment_analysis.ipynb](https://github.com/ductransponster/Olist-Brazilian-Ecommerce/blob/main/notebook/payment_analysis.ipynb)
+**4. Payment analysis:** [payment_analysis.ipynb](https://github.com/ductransponster/Olist-Brazilian-Ecommerce/blob/main/notebook/payment_analysis.ipynb)
 
 # Folder Organization
 ![Folder Organization](https://github.com/ductransponster/Olist-Brazilian-Ecommerce/blob/main/image/folder_organization.png)
