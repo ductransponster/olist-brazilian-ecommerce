@@ -1,4 +1,4 @@
-# About
+# Olist-Brazilian-Ecommerce
 Olist is an e-commerce platform that brings together many different sellers. Through Olist, sellers can sell their products to their customers, which will be delivered by Olist's logistics partners.
 
 Olist data provides on Kaggle with information on nearly 100 thousand orders from 2016 to 2018, organized into many different files, including data about: customers, orders, products, payments, sellers, reviews , geolocation,... Below is a diagram of Olist's database divided into corresponding files.
